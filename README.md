@@ -21,10 +21,5 @@
 - Node.js (v16+)
 - OpenAI API açarı ([açar almaq](https://platform.openai.com/account/api-keys))
 
-### Quraşdırma
 
-```bash
-git clone https://github.com/senin-username/vibescope.git
-cd vibescope
-npm install
 
